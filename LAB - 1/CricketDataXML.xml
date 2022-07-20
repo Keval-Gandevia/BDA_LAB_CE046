@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<CRICKETDATA>
+  <ROW>
+    <Id>1</Id>
+    <Name>Dhoni</Name>
+    <Fifty>108</Fifty>
+    <Century>16</Century>
+  </ROW>
+  <ROW>
+    <Id>2</Id>
+    <Name>Kohli</Name>
+    <Fifty>122</Fifty>
+    <Century>70</Century>
+  </ROW>
+  <ROW>
+    <Id>3</Id>
+    <Name>Rohit</Name>
+    <Fifty>85</Fifty>
+    <Century>42</Century>
+  </ROW>
+</CRICKETDATA>
